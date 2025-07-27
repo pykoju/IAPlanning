@@ -1,0 +1,12 @@
+
+Copyright (c) 2025 Pyko
+
+Ce projet, nommé IAPlanning, est la propriété intellectuelle exclusive de son créateur (Pyko).
+Il est interdit de :
+- Copier, redistribuer, ou modifier tout ou partie du code source
+- Utiliser tout élément visuel (logo, icône, design) à des fins commerciales ou non
+- Cloner ou reproduire le fonctionnement ou la finalité de l’application à des fins personnelles ou professionnelles
+
+Toute infraction entraînera des poursuites selon les lois applicables en matière de propriété intellectuelle.
+
+Ce dépôt est mis à disposition à des fins de démonstration uniquement.
